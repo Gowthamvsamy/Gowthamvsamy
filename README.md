@@ -1,5 +1,9 @@
 ## Hi there 👋 i'm Gowtham Velusamy
 
+I’m a passionate Front End Developer, who loves working on feature-rich applications and exploring innovative ways to solve problems.
+
+
+
 <!--
 **Gowthamvsamy/Gowthamvsamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
